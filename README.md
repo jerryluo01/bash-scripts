@@ -2,10 +2,10 @@
 
 This repository contains custom **Bash scripts** for automating file system tasks, including:
 
-- **Backups** – create compressed archives of files and directories.  
-- **Archiving** – move and store files systematically for organization.  
-- **Sorting** – organize files into structured directories.  
-- **Indexing** – generate file indexes for quick access and reference.  
+- **Backups** - create compressed archives of files and directories.  
+- **Archiving** - move and store files systematically for organization.  
+- **Sorting** - organize files into structured directories.  
+- **Indexing** - generate file indexes for quick access and reference.  
 
 (Written using the **Vim** text editor for efficient development.)
 
